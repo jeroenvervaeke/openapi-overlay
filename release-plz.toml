@@ -1,0 +1,5 @@
+# Keep release-plz dormant until the crate has something worth publishing.
+# No publish, no release PR, no version bump while this is false.
+# Flip to `release = true` (or delete this file) when ready to ship 0.1.0.
+[workspace]
+release = false
